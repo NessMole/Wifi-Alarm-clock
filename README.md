@@ -7,7 +7,8 @@ I use the MKR WIFI 1010 from Arduino with a Proto shield, Arduino MKR board for 
 I use a 2.9inch e-Paper module from Waveshare.
 The Wiki of this module:	https://www.waveshare.com/wiki/2.9inch_e-Paper_Module
 
-# Connection
+Connection
+
 e-Paper	Arduino
 Vcc		5V
 GND		GND
